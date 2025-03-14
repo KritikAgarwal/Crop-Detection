@@ -1,0 +1,5 @@
+
+train: C:\Users\kriti\Downloads\yolov5-master\yolov5-master\data\archive\agri_data\data  
+val: C:\Users\kriti\Downloads\yolov5-master\yolov5-master\data\archive\agri_data\data    
+nc: 2
+names: ['crop', 'weed']
